@@ -1,0 +1,13 @@
+
+.form{
+    font-size: 20px;
+    display : flex;
+    flex-direction :column;
+    width: 50vw;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(185, 253, 242);
+    height: 100vh;
+    border-radius: 30px;
+    padding: 20px 35px
+}
